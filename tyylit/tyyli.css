@@ -1,0 +1,39 @@
+body {
+   background-color:bisque;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    font-display: bold;
+    background-color: rgba(245, 177, 94, 0.916);
+}
+
+p {
+    border: 5px;
+    border-color: bisque;
+    margin: 1px;
+}
+
+#teksti {
+ color: black;
+}
+
+#teksti.red {
+    color: red;
+}
+
+
+.jumbotron {
+    border-radius: 20px solid black;
+    padding: 30px;
+    text-align: center;
+    justify-content: center;
+    background-color: lightblue;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2%;  
+    text-decoration-color: black;
+}
+
